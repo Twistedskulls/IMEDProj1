@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	box-sizing: border-box
+}
+body{
+	background: url("coffeefall.jpg") no-repeat fixed center;
+}
+#container{
+	width: 800px;
+	margin: 0 auto;
+}
