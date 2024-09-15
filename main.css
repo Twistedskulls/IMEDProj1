@@ -1,5 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 body{
-	background: rgba(34,167,202,1.00) url("coffeefall.jpg") repeat scroll center;
+	background: rgba(34,167,202,1.00) url("coffeefall.jpg") repeat;
+	visibility: inherit;
+	display: block
 	}
